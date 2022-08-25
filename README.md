@@ -1,7 +1,7 @@
 
 <html>
   <head>
-    <link href="/cheatsheet.css" rel="stylesheet" type="text/css">
+    <link href="yaebinnie.github.io/cheatsheet.css" rel="stylesheet" type="text/css">
     <h1>Cheat Sheet: The CSS Box Model</h1>
   </head>
 
