@@ -1,0 +1,10 @@
+h1,th {
+  text-align: center;
+  background-color: rgb(79, 138, 240);
+  color: white;
+  font-family: "Lucida Console", Courier, monospace;
+}
+
+body,img {
+  text-align: center;
+}
